@@ -1,0 +1,14 @@
+C:\PRN222\ConsoleApp4-websocket\ConsoleApp4-websocket\bin\Debug\net8.0\ConsoleApp4-websocket.exe
+C:\PRN222\ConsoleApp4-websocket\ConsoleApp4-websocket\bin\Debug\net8.0\ConsoleApp4-websocket.deps.json
+C:\PRN222\ConsoleApp4-websocket\ConsoleApp4-websocket\bin\Debug\net8.0\ConsoleApp4-websocket.runtimeconfig.json
+C:\PRN222\ConsoleApp4-websocket\ConsoleApp4-websocket\bin\Debug\net8.0\ConsoleApp4-websocket.dll
+C:\PRN222\ConsoleApp4-websocket\ConsoleApp4-websocket\bin\Debug\net8.0\ConsoleApp4-websocket.pdb
+C:\PRN222\ConsoleApp4-websocket\ConsoleApp4-websocket\obj\Debug\net8.0\ConsoleApp4-websocket.GeneratedMSBuildEditorConfig.editorconfig
+C:\PRN222\ConsoleApp4-websocket\ConsoleApp4-websocket\obj\Debug\net8.0\ConsoleApp4-websocket.AssemblyInfoInputs.cache
+C:\PRN222\ConsoleApp4-websocket\ConsoleApp4-websocket\obj\Debug\net8.0\ConsoleApp4-websocket.AssemblyInfo.cs
+C:\PRN222\ConsoleApp4-websocket\ConsoleApp4-websocket\obj\Debug\net8.0\ConsoleApp4-websocket.csproj.CoreCompileInputs.cache
+C:\PRN222\ConsoleApp4-websocket\ConsoleApp4-websocket\obj\Debug\net8.0\ConsoleApp4-websocket.dll
+C:\PRN222\ConsoleApp4-websocket\ConsoleApp4-websocket\obj\Debug\net8.0\refint\ConsoleApp4-websocket.dll
+C:\PRN222\ConsoleApp4-websocket\ConsoleApp4-websocket\obj\Debug\net8.0\ConsoleApp4-websocket.pdb
+C:\PRN222\ConsoleApp4-websocket\ConsoleApp4-websocket\obj\Debug\net8.0\ConsoleApp4-websocket.genruntimeconfig.cache
+C:\PRN222\ConsoleApp4-websocket\ConsoleApp4-websocket\obj\Debug\net8.0\ref\ConsoleApp4-websocket.dll
